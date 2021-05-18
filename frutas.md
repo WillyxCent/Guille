@@ -1,3 +1,3 @@
 # frutas
 1. Manzana
-2. Pera
+2. Peras
